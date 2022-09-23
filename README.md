@@ -8,5 +8,7 @@ Shortest remaining time first
 Preemptive priority
 Non preemptive priority scheduling
 
-Also, Working of fork, exec, exit system calls. 
+Working of fork, exec, exit system calls. 
+
+MFT & MVT memory management 
 
